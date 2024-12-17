@@ -63,6 +63,8 @@ public class placeOrder extends HttpServlet {
                        boolean f=dao.addOrder(o);
                         int w=i.getStock()- quantity;
                         boolean d=dao.stock(item_id,w);
+                        
+                        
                    }catch(Exception e)
                    {
                        

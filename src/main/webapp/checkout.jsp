@@ -171,7 +171,8 @@
         <input type="hidden" name="price" value="${sessionScope.price}">
         <input type="hidden" name="quantity" value="${sessionScope.quantity}">
         <input type="hidden" name="totalPrice" value="${sessionScope.totalPrice}">
-        <button type="submit">Confirm Order</button>
+       <a href="placeOrder?user_name=<%=user_name%>&&email=<%=email%>&&address=<%=address%>&&pincode=<%=pincode%>&&city=<%=payment%>&&city=<%=city%>&&price=<%=p%>&&user_id=<%=y%>&&item_id=<%=z%>&&item_name=<%=item_name%>&&brand=<%=brand%>&&quantity=<%=quantity%>"<button type="submit" class="btn btn-primary" style="margin-left: 65%;" onclick="">Confirm</button></a>
+        <a href="deleteorder?id=<%=o.getOrderid()%>&&q=<%=o.getQuantity()%>&&item_id=<%=o.getItem_id()%>&&stock=<%=i.getStock()%>"><button type="submit" class="btn btn-danger">cancel</button></a>
     </form>
 </body>
 </html>

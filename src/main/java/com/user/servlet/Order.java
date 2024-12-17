@@ -20,7 +20,6 @@ public class Order extends HttpServlet {
         try {
             HttpSession session = request.getSession();
 
-            // Fetching user and order details from the request
             String user_name = request.getParameter("user_name");
             String email = request.getParameter("email");
             String address = request.getParameter("address");
@@ -48,7 +47,6 @@ public class Order extends HttpServlet {
             int quantity = Integer.parseInt(q);
             int totalPrice = price * quantity;
 
-            // Setting session attributes to pass data to JSP
             session.setAttribute("user_id", user_id);
             session.setAttribute("user_name", user_name);
             session.setAttribute("email", email);
@@ -69,16 +67,15 @@ public class Order extends HttpServlet {
                 String photo = itemDetails.getPhoto();
                 session.setAttribute("photo", photo);
 
-                // If payment method is "online", redirect to payment.jsp
                 if ("online".equals(paymentMethod)) {
                     response.sendRedirect("payment.jsp?price=" + totalPrice + "&user_id=" + user_id + "&item_id=" + item_id);
                 }
-                // If payment method is "cod", redirect to checkout.jsp
+
                 else if ("cod".equals(paymentMethod)) {
                     response.sendRedirect("checkout.jsp?payment=cod&user_id=" + user_id + "&item_id=" + item_id);
                 }
             } else {
-                // Handle insufficient stock
+
                 session.setAttribute("notenough", "Not enough items left in stock.");
                 response.sendRedirect("buynow.jsp?id=" + item_id + "&&user_id=" + user_id);
             }
