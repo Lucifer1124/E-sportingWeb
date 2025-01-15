@@ -1,0 +1,87 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/user/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/user/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/user/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/user/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/user/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/user/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/user/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/user/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/user/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/user/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/user/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/user/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/user/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/user/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/user/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/user/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/user/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/user/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/user/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar;C:/Users/user/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar;C:/Users/user/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar;C:/Users/user/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/2.0.0/jakarta.servlet.jsp.jstl-2.0.0.jar;C:/Users/user/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/2.0.0/jakarta.servlet.jsp.jstl-api-2.0.0.jar;C:/Users/user/.m2/repository/jakarta/servlet/jakarta.servlet-api/5.0.0/jakarta.servlet-api-5.0.0.jar;C:/Users/user/.m2/repository/jakarta/el/jakarta.el-api/4.0.0/jakarta.el-api-4.0.0.jar;C:/Users/user/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.jar;C:/Users/user/.m2/repository/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0.jar;C:/Users/user/.m2/repository/javax/mail/javax.mail-api/1.6.2/javax.mail-api-1.6.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/user/OneDrive/Documents/NetBeansProjects/E-SPORTS/src/main/java;C:/Users/user/OneDrive/Documents/NetBeansProjects/E-SPORTS/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/OneDrive/Documents/NetBeansProjects/E-SPORTS/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'E-SPORTS-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/user/OneDrive/Documents/NetBeansProjects/E-SPORTS/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'E-SPORTS-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.admin.servlet
+com.DAO
+com.DB
+com.entity
+com.mycompany.e.sports
+com.mycompany.e.sports.resources
+com.user.servlet
+C:\Users\user\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1726651551839
+C:\Users\user\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1726651555422
+C:\Users\user\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1726651552407
+C:\Users\user\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1726651554106
+C:\Users\user\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1726651553078
+C:\Users\user\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1726651552853
+C:\Users\user\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1726651553210
+C:\Users\user\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1726651553370
+C:\Users\user\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1726651553372
+C:\Users\user\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1726651553547
+C:\Users\user\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1726651553839
+C:\Users\user\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1726651553744
+C:\Users\user\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1726651555052
+C:\Users\user\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1726651554228
+C:\Users\user\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1726651554257
+C:\Users\user\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1726651554570
+C:\Users\user\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1726651554653
+C:\Users\user\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1726651554697
+C:\Users\user\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1726651554915
+C:\Users\user\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1726651555083
+C:\Users\user\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1726651555224
+C:\Users\user\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1726651555401
+C:\Users\user\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1726651555998
+C:\Users\user\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1726651555501
+C:\Users\user\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1726651555573
+C:\Users\user\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1726651555639
+C:\Users\user\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar = 1729860487401
+C:\Users\user\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar = 1729882283133
+C:\Users\user\.m2\repository\org\glassfish\web\jakarta.servlet.jsp.jstl\2.0.0\jakarta.servlet.jsp.jstl-2.0.0.jar = 1729925196720
+C:\Users\user\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\2.0.0\jakarta.servlet.jsp.jstl-api-2.0.0.jar = 1729925196909
+C:\Users\user\.m2\repository\jakarta\servlet\jakarta.servlet-api\5.0.0\jakarta.servlet-api-5.0.0.jar = 1729925197409
+C:\Users\user\.m2\repository\jakarta\el\jakarta.el-api\4.0.0\jakarta.el-api-4.0.0.jar = 1729925197214
+C:\Users\user\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\3.0.0\jakarta.xml.bind-api-3.0.0.jar = 1729925197249
+C:\Users\user\.m2\repository\com\sun\activation\jakarta.activation\2.0.0\jakarta.activation-2.0.0.jar = 1729925197167
+C:\Users\user\.m2\repository\javax\mail\javax.mail-api\1.6.2\javax.mail-api-1.6.2.jar = 1732721701567
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\src\main\java = 1732720239326
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\generated-sources\annotations = 1732720246324
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\allclasses-index.html = 1732722101259
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\allpackages-index.html = 1732722101277
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\element-list = 1732722099663
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\help-doc.html = 1732722101562
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\index-all.html = 1732722101479
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\index.html = 1732722101157
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\member-search-index.js = 1732722101306
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\module-search-index.js = 1732722101285
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\overview-summary.html = 1732722101526
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\overview-tree.html = 1732722101069
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\package-search-index.js = 1732722101291
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\search.html = 1732722101500
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\serialized-form.html = 1732722100077
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\tag-search-index.js = 1732722101316
+C:\Users\user\OneDrive\Documents\NetBeansProjects\E-SPORTS\target\reports\apidocs\type-search-index.js = 1732722101298

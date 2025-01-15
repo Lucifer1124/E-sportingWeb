@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.admin.servlet"},{"l":"com.DAO"},{"l":"com.DB"},{"l":"com.entity"},{"l":"com.mycompany.e.sports"},{"l":"com.mycompany.e.sports.resources"},{"l":"com.user.servlet"}];updateSearchResults();
